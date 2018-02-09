@@ -22,6 +22,7 @@
   color: #fff;
   opacity: 1;
   border-radius: 2px;
+  margin-right: 20px;
 }
 
 a {
@@ -29,6 +30,7 @@ a {
   opacity: 0.75;
   text-decoration: none;
   font-size: 13px;
+  font-family: arial, sans-serif;
 }
 
 a:hover {
@@ -91,4 +93,12 @@ a.button {
 a.button:hover {
   text-decoration: none;
   color: #000;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
